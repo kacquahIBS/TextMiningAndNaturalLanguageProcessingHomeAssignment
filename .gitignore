@@ -1,6 +1,10 @@
-# Data files
+# Ignore raw data
 data/
-*.csv
+twcs.csv
+
+# Allow processed project datasets
+!Data/final_tweets.csv
+!Data/top_company_tweets.csv
 
 # Python
 __pycache__/
