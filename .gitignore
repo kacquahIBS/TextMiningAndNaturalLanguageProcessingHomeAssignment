@@ -1,6 +1,21 @@
-.venv/
-Data/
+# Data files
 data/
 *.csv
-.ipynb_checkpoints/
+
+# Python
 __pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+.env
+
+# Results / models
+models/
+*.pkl
+*.joblib
+*.pt
+*.bin
