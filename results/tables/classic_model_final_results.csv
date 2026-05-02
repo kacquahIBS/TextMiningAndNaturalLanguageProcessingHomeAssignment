@@ -1,0 +1,2 @@
+model,max_features,ngram_range,C,class_weight,test_accuracy,test_macro_f1,test_weighted_f1
+TF-IDF + Logistic Regression,10000,"(1, 1)",1.0,None,0.6717729218292409,0.6254931821949757,0.6623219716888137
