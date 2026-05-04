@@ -1,22 +1,24 @@
-# Ignore raw data
+# Raw dataset (Kaggle original)
 Data/twcs.csv
 
-# Allow processed project datasets
+# Allow processed datasets
 !Data/final_tweets.csv
 !Data/top_company_tweets.csv
 
-# Python
+# Python cache
 __pycache__/
 *.pyc
 
 # Jupyter
 .ipynb_checkpoints/
 
-# Environment
+# Virtual environments
+nlp-env/
 .venv/
 .env
 
 # Results / models
+results/
 models/
 *.pkl
 *.joblib
