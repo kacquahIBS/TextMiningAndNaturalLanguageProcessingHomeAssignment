@@ -1,0 +1,2 @@
+model,learning_rate,epochs,validation_accuracy,validation_macro_f1,validation_weighted_f1,validation_loss
+DistilBERT baseline,5e-05,1,0.5274074074074074,0.5122941446036752,0.5122941446036752,1.224677324295044

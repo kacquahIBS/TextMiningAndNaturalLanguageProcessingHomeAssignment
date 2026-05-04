@@ -1,0 +1,991 @@
+prompt_id,prompt
+1,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+thank you its now up to the st november estimated
+
+Return only one label from the valid labels."
+2,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+hi spoke to cs they said i have to return it myself usin arrowxl however the phone number they gave doesnt work this doesnt seem like an easy process for an item which is suppose to have easy returns
+
+Return only one label from the valid labels."
+3,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+done filled the required info awaiting your actions
+
+Return only one label from the valid labels."
+4,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+the sale period is already over and i could never buy this device which your representative assured that i would be able to
+
+Return only one label from the valid labels."
+5,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+when will be the earliest more month
+
+Return only one label from the valid labels."
+6,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+rcvd amp figured it was hurricane related but isnt the perk of prime day shipping my grandmas th bday gift was that was late
+
+Return only one label from the valid labels."
+7,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+beim letzten bestellschritt steht unter den auswahlmglichkeiten zur versandart vorher gab es bei der adressauswahl wirren javacode
+
+Return only one label from the valid labels."
+8,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+this was somehow cancelled nowbut dont worry your about to fail againcause theres no way in the next hrs this comes
+
+Return only one label from the valid labels."
+9,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+i totally love amazon and have been loyal for yrs now but a recent experience related to order refund has been horrendous talking to support execs has been futile thus far please help me
+
+Return only one label from the valid labels."
+10,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+hope you guys can track my details through order numberpfa
+
+Return only one label from the valid labels."
+11,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+totally understand we are glad to have gotten the earlier flight
+
+Return only one label from the valid labels."
+12,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+sounds about normal for im amazed they can keep acting shocked like its the first time theyve heard it when people post it
+
+Return only one label from the valid labels."
+13,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+hey i appreciate your concern for my safety but why do i need the shoulder belt on a front facing seat on a fa tells me to put it on but not my rear facing neighbors am i really more important ordgtnrt
+
+Return only one label from the valid labels."
+14,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+everyones so excited about the new aa flagship lounges in ord and jfk any news on when in the mia lounge will open
+
+Return only one label from the valid labels."
+15,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+thanks my flight back east at sunset was like watching a panoramic movie
+
+Return only one label from the valid labels."
+16,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+the worst flight experience manager suarez ord should be fired for cancelling our transfers and storming off on our questions
+
+Return only one label from the valid labels."
+17,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+dont care about their customers
+
+Return only one label from the valid labels."
+18,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+stuck in hong kong hour delay due to maintenance cmon help me out i have a company to run and a dog waiting for me americanairlines
+
+Return only one label from the valid labels."
+19,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+had the worst flying experience of my life today with no lie just bullshit top to bottom
+
+Return only one label from the valid labels."
+20,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+manolo and i love our first class flight attendant ill get her name such a happy and sweet lady
+
+Return only one label from the valid labels."
+21,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+id like to offer thanks to for their assistance offered through twitter thank you for the professional and courteous way you handled my petulant complaint
+
+Return only one label from the valid labels."
+22,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+i forgot my pwd in app restrictions what should i do for disable pwd and my iphone se is not able to restore please help me
+
+Return only one label from the valid labels."
+23,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+and this spotify is streaming and can control nor volume nor switching songs and even pauseplay doesnt work it just starts playing
+
+Return only one label from the valid labels."
+24,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+is it ok to run my macbook pro standing up like this its too complicated to explain why but i would like to
+
+Return only one label from the valid labels."
+25,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+how can i disable the d detection for the wifi on my macbook pro there are routers around me with wrong location dz
+
+Return only one label from the valid labels."
+26,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+can you please help ive tried resetting my account two times got email id get a textcall in hours but nothing
+
+Return only one label from the valid labels."
+27,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+been getting vanishingdotted lines with pencil since ios just like this thread any advice
+
+Return only one label from the valid labels."
+28,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+will do
+
+Return only one label from the valid labels."
+29,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+my iphones will not connect to the internet via wifi yet my ipad will
+
+Return only one label from the valid labels."
+30,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+my apple maps right now apparently ive been driving in the forest for a while thanks for that great ios update
+
+Return only one label from the valid labels."
+31,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+had to deboard my flight so they could run a maintenance test before reboarding and taking off not terrifying at all
+
+Return only one label from the valid labels."
+32,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+im sure it does i just want to know how
+
+Return only one label from the valid labels."
+33,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+now can you please do something about seats on from lax worst ever experience in first class terrible seating
+
+Return only one label from the valid labels."
+34,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+help i need my tsa precheck number added to my flight tomorrow
+
+Return only one label from the valid labels."
+35,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+i got disconnected while being transferred to a supervisor this is so frustrating
+
+Return only one label from the valid labels."
+36,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+its late were tired and youve got man working the gate with travelers to board a flight due to leave in min
+
+Return only one label from the valid labels."
+37,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+i paid for checked baggage and another for a lost bathing suit when we arrived in cancun money wasted
+
+Return only one label from the valid labels."
+38,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+ty for understanding any st class option upgrade for the am flight
+
+Return only one label from the valid labels."
+39,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+been trying to reach a rep or manager cant threw hold time is hrs like very dissatisfied
+
+Return only one label from the valid labels."
+40,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+thanks for delaying me hours in the airport charge your plane next time
+
+Return only one label from the valid labels."
+41,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+how many cookies do i have to send you for an snagtlih route
+
+Return only one label from the valid labels."
+42,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+no this is my th flight without my status on my ticket it deficits the purpose inot happy at all and im seriously considering switching to other airlines
+
+Return only one label from the valid labels."
+43,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+making it traveler specific isnt really a good business model it should be credit card specific since a lot of people purchase flights for family members but whatever thats why there are other airlines to choose from
+
+Return only one label from the valid labels."
+44,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+why cant itineraries with multiple passengers have mobile boarding passes had a difficult time printing boarding passes
+
+Return only one label from the valid labels."
+45,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+also the staff at san diego airport are rude not empathetic and worst of all not helpful
+
+Return only one label from the valid labels."
+46,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+thx u all are the best havent flown domestic on any other airline in forever amp i travel a lot have a great wkend
+
+Return only one label from the valid labels."
+47,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+haha no complaints with you guys i actually had an issue last week when the chicago airport closed and you guys went above and beyond to make it up time and time againyouve got a customer for life
+
+Return only one label from the valid labels."
+48,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+were sorry to hear that doesnt solve anything and your customer care department did everything but take care of the issue
+
+Return only one label from the valid labels."
+49,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+is the cutest they never cease to make me feel warm amp fuzzy thank you for getting me to friends amp fam safely
+
+Return only one label from the valid labels."
+50,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+which i am currently working on it doesnt excuse poor customer service though when i have had a terrible experience so far
+
+Return only one label from the valid labels."
+51,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+when did my premium subscription end i was billed on so i thought it would be good until thanks
+
+Return only one label from the valid labels."
+52,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+is there any way i can track this or other bugs i honestly dont care about this one in particular
+
+Return only one label from the valid labels."
+53,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+the facebook staff already solved it thanks
+
+Return only one label from the valid labels."
+54,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+i cant renew my spotify premium for students you guys are unable to verify me
+
+Return only one label from the valid labels."
+55,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+yes thanks spotify love u
+
+Return only one label from the valid labels."
+56,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+i have all my songs downloaded so it happens only with them
+
+Return only one label from the valid labels."
+57,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+can put the first vixx album on spotify
+
+Return only one label from the valid labels."
+58,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+i reverified my student status last month when i was notified it expired and was charged but this month i was charged instead i think i need to change my account again for some reason but is there any way to get that back
+
+Return only one label from the valid labels."
+59,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+well webservice should be clear as in your website both chrome and firefox on windows the newest android app updated just today on android oo
+
+Return only one label from the valid labels."
+60,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+thankyou
+
+Return only one label from the valid labels."
+61,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+falseadvertising christmas cookies spotthe difference tesco this makes me sad would this happened christmascookies rt
+
+Return only one label from the valid labels."
+62,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+serpentine green peterborough
+
+Return only one label from the valid labels."
+63,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+another photo to show how gross it was straight out of the packet ick
+
+Return only one label from the valid labels."
+64,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+your prices have increased dramatically
+
+Return only one label from the valid labels."
+65,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+hi reece thx for getting back white sub roll pk ashby de la zouch usually theyre ok but could hammer a nail into wood with these two
+
+Return only one label from the valid labels."
+66,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+bought this in store today and only realised now that its out of date
+
+Return only one label from the valid labels."
+67,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+it is at ystad mynach tesco
+
+Return only one label from the valid labels."
+68,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+why does it say out of stock on all postcodes
+
+Return only one label from the valid labels."
+69,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+all sorted now thank you
+
+Return only one label from the valid labels."
+70,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+i would but ive eaten them now i didnt have my receipt amp i threw the empty wrapper in the bin
+
+Return only one label from the valid labels."
+71,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+dont be as lazy as your driver
+
+Return only one label from the valid labels."
+72,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+my food order never arrived i need a refund how can i get this
+
+Return only one label from the valid labels."
+73,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+honestly sucks they charge you times for bucks each and dont even care fuck them i hate yall give me my money back
+
+Return only one label from the valid labels."
+74,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+how do i fix this this driver probably shouldnt be on the road also this ride wasnt a pool
+
+Return only one label from the valid labels."
+75,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+my email address is email
+
+Return only one label from the valid labels."
+76,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+even called uber support and was on the line for so long and they just told me to try again thats not fair at all this is wasting everyones time
+
+Return only one label from the valid labels."
+77,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+that sound like a very robotic reply
+
+Return only one label from the valid labels."
+78,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+no need already sent the request to delete my account toomanysecondchances
+
+Return only one label from the valid labels."
+79,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+my email id email
+
+Return only one label from the valid labels."
+80,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+any reason why your navigation app decides to make the journey longer than it needs to be
+
+Return only one label from the valid labels."
+81,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+the london euston train at to preston
+
+Return only one label from the valid labels."
+82,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+sounds like a good reason not to frack
+
+Return only one label from the valid labels."
+83,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+i then found outit was her that had the issue after i said that ive never been madeto feel so awkward or unwelcome
+
+Return only one label from the valid labels."
+84,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+thanks what time are they open till been on hold for mins
+
+Return only one label from the valid labels."
+85,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+but im a euston what should i do
+
+Return only one label from the valid labels."
+86,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+bit of a queue for a bus
+
+Return only one label from the valid labels."
+87,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+not very good that im left waiting around at night for this long though
+
+Return only one label from the valid labels."
+88,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+thanks for response on this still perplexed that no one could contact train staff
+
+Return only one label from the valid labels."
+89,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+i dont think hell have much choice hell might have a revolt on his hands lol first class full with people in the aisles
+
+Return only one label from the valid labels."
+90,"You are classifying customer support tweets.
+
+Choose the company label that best matches the tweet.
+
+Valid labels:
+amazonhelp, americanair, applesupport, delta, southwestair, spotifycares, tesco, uber_support, virgintrains
+
+Tweet:
+you know sometimes even saying you have no information is better than silence or preparing
+
+Return only one label from the valid labels."

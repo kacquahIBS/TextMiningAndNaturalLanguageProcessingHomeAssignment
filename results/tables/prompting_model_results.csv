@@ -1,0 +1,2 @@
+model,sample_size,test_accuracy,test_macro_f1,test_weighted_f1
+Zero-shot prompting,90,0.9777777777777777,0.9770723104056438,0.9770723104056439
