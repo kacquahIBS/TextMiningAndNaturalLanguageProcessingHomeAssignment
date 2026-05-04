@@ -1,0 +1,2 @@
+model,learning_rate,epochs,test_accuracy,test_macro_f1,test_weighted_f1,test_loss
+DistilBERT tuned,5e-05,2,0.5488888888888889,0.5453341891190152,0.5453341891190151,1.2062009572982788

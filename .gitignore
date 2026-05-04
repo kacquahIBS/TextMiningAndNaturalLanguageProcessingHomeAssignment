@@ -1,6 +1,5 @@
 # Ignore raw data
-data/
-twcs.csv
+Data/twcs.csv
 
 # Allow processed project datasets
 !Data/final_tweets.csv
